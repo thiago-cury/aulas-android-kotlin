@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExAlertDialog</string>
+
+    <!-- Variáveis AlertDialog -->
+    <string name="alert_message">Mensagem internacionalizada</string>
+    <string name="alert_title">Titulo</string>
+    <string name="alert_button">OK!</string>
+
+</resources>
