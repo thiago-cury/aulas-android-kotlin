@@ -1,12 +1,11 @@
-package thiagocury.eti.br.exalertdialog
+package thiago.cury.exalertdialog
 
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.support.v4.content.ContextCompat
-import android.support.v7.app.AlertDialog
+import androidx.appcompat.app.AlertDialog
+import androidx.core.content.ContextCompat
 
 class MainActivity : AppCompatActivity() {
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -20,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         alert1.show()
 
         /* Dessa forma estamos internacionalizando o projeto.
-         *  Note que estamos chamando o método getResources().getString(), assim
+         *  Note que estamos chamando resources.getString(), assim
          *  mantemos a internacionalização do nosso projeto com base nas variáveis criadas
          *  dentro do strings.xml */
         val alert2 = AlertDialog.Builder(this@MainActivity)
@@ -29,5 +28,6 @@ class MainActivity : AppCompatActivity() {
         alert2.setIcon(ContextCompat.getDrawable(applicationContext, R.mipmap.ic_launcher))
         alert2.setNeutralButton(resources.getString(R.string.alert_button), null)
         alert2.show()
+
     }
 }
