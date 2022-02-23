@@ -1,6 +1,6 @@
-package thiagocury.eti.br.excriandoprimeiraaplicacao
+package thiago.cury.excriandoprimeiraaplicacao
 
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
@@ -18,4 +18,5 @@ class MainActivity : AppCompatActivity() {
     /* Outras Funções(métodos) de utilização opcional.
        Podemos criar as nossas próprias funções e/ou utilizar
        as funções pré definidas da linguagem */
+
 }
