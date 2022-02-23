@@ -2,5 +2,5 @@
     <string name="app_name">ExToast</string>
 
     <!-- Variável Toast -->
-    <string name="mensagem_toast">Olá, mensagem enviada via Toast!</string>
+    <string name="toast_message">Olá, mensagem enviada via Toast!</string>
 </resources>
