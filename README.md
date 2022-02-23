@@ -3,6 +3,7 @@
 
 ## 1 - ExCriandoPrimeiraAplicacao
 ## 2 - ExToast
-## 3 - ExAlertDialog
-## 4 - ExEventoBotaoOnClickOnLongClick
-## 5 - ExViewBinding
+## 3 - ExToast
+## 4 - ExAlertDialog
+## 5 - ExEventoBotaoOnClickOnLongClick
+## 6 - ExViewBinding
