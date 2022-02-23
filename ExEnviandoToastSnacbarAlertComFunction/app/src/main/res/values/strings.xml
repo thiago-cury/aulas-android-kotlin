@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExEnviandoToastSnacbarAlertComFunction</string>
+
+    <!-- Variável para Toast -->
+    <string name="toast_message">Hi</string>
+
+    <!-- Variável para Alert -->
+    <string name="alert_title">Title :-)</string>
+    <string name="alert_message">Hi</string>
+    <string name="alert_neutral_button">OK</string>
+
+    <!-- Variável para Snackbar -->
+    <string name="snackbar_message">Hi Snackbar</string>
+</resources>
