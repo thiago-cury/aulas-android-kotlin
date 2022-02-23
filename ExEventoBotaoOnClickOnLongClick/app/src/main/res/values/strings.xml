@@ -2,14 +2,12 @@
     <string name="app_name">ExEventoBotaoOnClickOnLongClick</string>
 
     <!-- Variáveis -->
-    <string name="btn_toast_1">Toast 1</string>
-    <string name="btn_toast_2">Toast 2</string>
+    <string name="toast_button_1">Toast 1</string>
+    <string name="toast_button_2">Toast 2</string>
 
-    <string name="mensagem_toast_clique_1">Você clicou no primeiro botão</string>
-    <string name="mensagem_toast_clique_2">Você clicou no segundo botão</string>
+    <string name="toast_message_click_1">Você clicou no primeiro botão</string>
+    <string name="toast_message_click_2">Você clicou no segundo botão</string>
 
-    <string name="mensagem_toast_pressionar_1">Você pressionou o primeiro botão</string>
-    <string name="mensagem_toast_pressionar_2">Você pressionou o segundo botão</string>
-
+    <string name="toast_message_pressed_1">Você pressionou o primeiro botão</string>
+    <string name="toast_message_pressed_2">Você pressionou o segundo botão</string>
 </resources>
-

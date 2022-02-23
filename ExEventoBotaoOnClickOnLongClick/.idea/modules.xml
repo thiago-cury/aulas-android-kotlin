@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExEventoBotaoOnClickOnLongClick.iml" filepath="$PROJECT_DIR$/ExEventoBotaoOnClickOnLongClick.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExEventoBotaoOnClickOnLongClick.iml" filepath="$PROJECT_DIR$/.idea/modules/ExEventoBotaoOnClickOnLongClick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExEventoBotaoOnClickOnLongClick.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExEventoBotaoOnClickOnLongClick.app.iml" />
     </modules>
   </component>
 </project>
