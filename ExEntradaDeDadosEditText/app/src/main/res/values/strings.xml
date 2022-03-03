@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExEntradaDeDadosEditText</string>
+
+    <string name="edit_text_name">Digite o seu nome</string>
+    <string name="button_ok">Cadastrar</string>
+    <string name="button_clean">Limpar</string>
+
+
+    <string name="toast_error_message">Digite um nome :-/</string>
+    <string name="toast_ok_message">O seu nome é</string>
+</resources>
