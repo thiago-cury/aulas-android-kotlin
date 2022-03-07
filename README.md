@@ -8,9 +8,10 @@
 ## - ExEnviandoToastSnackbarAlertComFunction
 ## - ExEventoBotaoOnClickOnLongClick
 
-## - ExCicloDeVida
-
 ## - ExEntradaDeDadosEditText
 ## - ExRandomNumber
+
+## - ExCicloDeVida
+## - ExAbrindoSegundaTelaEnviandoValores
 
 ## - ExViewBinding
