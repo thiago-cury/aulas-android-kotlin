@@ -8,6 +8,8 @@
 ## - ExEnviandoToastSnackbarAlertComFunction
 ## - ExEventoBotaoOnClickOnLongClick
 
+## - ExCicloDeVida
+
 ## - ExEntradaDeDadosEditText
 ## - ExRandomNumber
 
