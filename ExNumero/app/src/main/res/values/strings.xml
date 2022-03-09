@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExNumero</string>
+    <string name="edit_text_number">Digite um número</string>
+    <string name="button_ok">OK</string>
+</resources>
