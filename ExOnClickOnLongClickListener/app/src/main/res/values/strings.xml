@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExOnClickOnLongClickListener</string>
+    <string name="button_ok">OK</string>
+</resources>

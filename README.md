@@ -22,3 +22,5 @@
 
 ## - ExIntentImplicitaEfetuarLigacao
 ## - ExIntentExplicitaEnviandoObjeto
+
+## - ExOnClickOnLongClickListener
