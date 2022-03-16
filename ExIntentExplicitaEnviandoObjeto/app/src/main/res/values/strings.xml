@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExIntentExplicitaEnviandoObjeto</string>
+
+    <string name="button_screen1">Abrir Tela 1</string>
+    <string name="edit_text_name">Nome</string>
+    <string name="edit_text_age">Idade</string>
+</resources>

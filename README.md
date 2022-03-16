@@ -21,3 +21,4 @@
 ## - ExExtensions
 
 ## - ExIntentImplicitaEfetuarLigacao
+## - ExIntentExplicitaEnviandoObjeto
