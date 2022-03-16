@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExSpinnerStringArray</string>
+
+    <string name="button_ok">OK</string>
+
+    <!-- ARRAY DE RECURSOS -->
+    <string-array name="spinner_marital_status">
+        <item>Selecione</item>
+        <item>Solteiro</item>
+        <item>Casado</item>
+    </string-array>
+</resources>
