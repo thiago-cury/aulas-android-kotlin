@@ -27,6 +27,8 @@
 
 ## - ExSpinnerStringArray
 
+## - ExJUnit
+
 ## - ExToastWithButtonJetpackCompose
 
 ## - ExEntradaDeDadosJetpackCompose
